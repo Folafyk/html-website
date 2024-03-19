@@ -1,0 +1,11 @@
+body{
+    background-image: url(third\ purple.png);
+  }
+h1{
+  color: #ffff;
+  font-family: cursive;
+}
+
+*{
+  text-align: center;
+}
